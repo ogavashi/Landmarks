@@ -33,3 +33,5 @@ struct Hike: Codable, Hashable, Identifiable {
         var heartRate: Range<Double>
     }
 }
+
+
